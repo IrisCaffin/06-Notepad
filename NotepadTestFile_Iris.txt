@@ -1,0 +1,14 @@
+Hello,
+
+This is a test file for my Origin Code Academy project 06-Notepad.
+
+Let's see if I can:
+
+- Open this file
+- Make changes to this file
+- Save the changes back to this file
+- I made a change!
+
+
+Cheers,
+Iris
